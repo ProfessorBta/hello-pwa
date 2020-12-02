@@ -1,7 +1,7 @@
 # Hello PWA
 Codigo base para una PWA(Progresive Web App)
 
-## What It Is
+## Descripción
 
 Ejemplo basado en el siguiente post de Medium
 
